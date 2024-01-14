@@ -1,6 +1,6 @@
 # OSGeo Nepal Data Bank
 
-Welcome to the OSGeo Nepal Data Bank Repo ! This repository serves as a centralized collection of Data sources. Feel free to contribute by adding new Data sources to the list.
+Welcome to the OSGeo Nepal Data Bank Repo! This repository serves as a centralized collection of Data sources. Feel free to contribute by adding new Data sources to the list.
 
 ## Table of Contents
 
