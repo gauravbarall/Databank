@@ -9,6 +9,7 @@ Welcome to the OSGeo Nepal Data Bank Repo ! This repository serves as a centrali
   - [Data Source Title 1](#data-source-title-1)
   - [Data Source Title 2](#data-source-title-2)
   - [Data Source Title 3](#data-source-title-3)
+  - [Nepal Earthquake 2015 portal](http://eq2015.klldev.org/)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
@@ -30,6 +31,7 @@ To add a new Data source, follow these steps:
 | [Data Source Title 1](#data-source-title-1) | [License 1]     | [Summary 1]                    | [More Info 1](#more-info-1) |
 | [Data Source Title 2](#data-source-title-2) | [License 2]     | [Summary 2]                    | [More Info 2](#more-info-2) |
 | [Data Source Title 3](#data-source-title-3) | [License 3]     | [Summary 3]                    | [More Info 3](#more-info-3) |
+| [Nepal Earthquake 2015 portal](http://eq2015.klldev.org/) | License not found | Following the 7.8 Mw Gorkha Earthquake on April 25, 2015, Nepal carried out a massive household survey using mobile technology to assess building damage in the earthquake-affected districts. The purpose of this portal is to open this data to the public. **Note: The data was collected between Jan 2016 and May 2016.** | [More info](http://eq2015.klldev.org/#/about)
 
 <!-- Repeat the above table rows for each Data source -->
 
