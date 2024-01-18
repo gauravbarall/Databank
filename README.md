@@ -32,7 +32,8 @@ To add a new Data source, follow these steps:
 | [Data Source Title 2](#data-source-title-2) | [License 2]     | [Summary 2]                    | [More Info 2](#more-info-2) |
 | [Data Source Title 3](#data-source-title-3) | [License 3]     | [Summary 3]                    | [More Info 3](#more-info-3) |
 | [Nepal Earthquake 2015 portal](http://eq2015.klldev.org/) | License not found | Following the 7.8 Mw Gorkha Earthquake on April 25, 2015, Nepal carried out a massive household survey using mobile technology to assess building damage in the earthquake-affected districts. The purpose of this portal is to open this data to the public. **Note: The data was collected between Jan 2016 and May 2016.** | [More info](http://eq2015.klldev.org/#/about)
-
+| [OpenAerialMap](https://map.openaerialmap.org/) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | OpenAerialMap (OAM) is a set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery. Built on top of the [Open Imagery Network (OIN)](https://openimagerynetwork.github.io/), OAM is an open service that provides search and access to this imagery.| [More Info](https://openaerialmap.org/about/) |
+| [GeoNadir](https://data.geonadir.com/fairgeo?extent=8539937.95%2C2603884.08%2C10489531.31%2C3862411.20) | License not found     | GeoNadir makes drone mapping even better. It is the place to manage, process, analyze, and collaborate with your drone mapping data| [More Info](https://geonadir.com/our-story/) |
 <!-- Repeat the above table rows for each Data source -->
 
 ## Data Source Title 1
