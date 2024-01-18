@@ -32,7 +32,7 @@ To add a new Data source, follow these steps:
 | [Data Source Title 2](#data-source-title-2) | [License 2]     | [Summary 2]                    | [More Info 2](#more-info-2) |
 | [Data Source Title 3](#data-source-title-3) | [License 3]     | [Summary 3]                    | [More Info 3](#more-info-3) |
 | [Nepal Earthquake 2015 portal](http://eq2015.klldev.org/) | License not found | Following the 7.8 Mw Gorkha Earthquake on April 25, 2015, Nepal carried out a massive household survey using mobile technology to assess building damage in the earthquake-affected districts. The purpose of this portal is to open this data to the public. **Note: The data was collected between Jan 2016 and May 2016.** | [More info](http://eq2015.klldev.org/#/about)
-| [OpenAerialMap](https://map.openaerialmap.org/) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | OpenAerialMap (OAM) is a set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery. Built on top of the Open Imagery Network (OIN), OAM is an open service that provides search and access to this imagery.| [More Info](https://openaerialmap.org/about/) |
+| [OpenAerialMap](https://map.openaerialmap.org/) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | OpenAerialMap (OAM) is a set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery. Built on top of the [Open Imagery Network (OIN)](https://openimagerynetwork.github.io/), OAM is an open service that provides search and access to this imagery.| [More Info](https://openaerialmap.org/about/) |
 <!-- Repeat the above table rows for each Data source -->
 
 ## Data Source Title 1
