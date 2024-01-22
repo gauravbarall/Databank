@@ -4,33 +4,20 @@ Welcome to the OSGeo Nepal Data Bank Repo! This repository serves as a centraliz
 
 ## Table of Contents
 
-- [How to Contribute](#how-to-contribute)
 - [Data Sources](#data-sources)
-  - [Data Source Title 1](#data-source-title-1)
-  - [Data Source Title 2](#data-source-title-2)
-  - [Data Source Title 3](#data-source-title-3)
+  - [SAMPLE Source Title 1](#data-source-title-1)
   - [Nepal Earthquake 2015 portal](http://eq2015.klldev.org/)
+  - [OpenAerialMap](https://map.openaerialmap.org/)
+  - [GeoNadir](https://data.geonadir.com/fairgeo?extent=8539937.95%2C2603884.08%2C10489531.31%2C3862411.20)
+- [How to Contribute](#how-to-contribute)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
-
-## How to Contribute
-
-To add a new Data source, follow these steps:
-
-1. Fork the repository.
-2. Clone the forked repository to your local machine.
-3. Fill in the details for your Data source.
-4. Save the file and commit your changes.
-5. Push the changes to your forked repository.
-6. Create a pull request to submit your changes for review.
 
 ## Data Sources
 
 | **Title**                              | **License**     | **Summary**                    | **More Info**                |
 |----------------------------------------|-----------------|---------------------------------|-----------------------------|
-| [Data Source Title 1](#data-source-title-1) | [License 1]     | [Summary 1]                    | [More Info 1](#more-info-1) |
-| [Data Source Title 2](#data-source-title-2) | [License 2]     | [Summary 2]                    | [More Info 2](#more-info-2) |
-| [Data Source Title 3](#data-source-title-3) | [License 3]     | [Summary 3]                    | [More Info 3](#more-info-3) |
+| [SAMPLE Data Source Title 1](#data-source-title-1) | [SAMPLE License 1]     | [SAMPLE Summary 1]                    | [SAMPLE More Info 1](#more-info-1) |
 | [Nepal Earthquake 2015 portal](http://eq2015.klldev.org/) | License not found | Following the 7.8 Mw Gorkha Earthquake on April 25, 2015, Nepal carried out a massive household survey using mobile technology to assess building damage in the earthquake-affected districts. The purpose of this portal is to open this data to the public. **Note: The data was collected between Jan 2016 and May 2016.** | [More info](http://eq2015.klldev.org/#/about)
 | [OpenAerialMap](https://map.openaerialmap.org/) | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | OpenAerialMap (OAM) is a set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery. Built on top of the [Open Imagery Network (OIN)](https://openimagerynetwork.github.io/), OAM is an open service that provides search and access to this imagery.| [More Info](https://openaerialmap.org/about/) |
 | [GeoNadir](https://data.geonadir.com/fairgeo?extent=8539937.95%2C2603884.08%2C10489531.31%2C3862411.20) |  License not found     | GeoNadir makes drone mapping even better. It is the place to manage, process, analyze, and collaborate with your drone mapping data.| [More Info](https://geonadir.com/our-story/) |
@@ -38,6 +25,7 @@ To add a new Data source, follow these steps:
 | [National Trust for Nature Conservation(NTNC) Geoportal](http://geoportal.ntnc.org.np/) |   License not found     |NTNC Geoportal is a geospatial content management system, a platform for the management and publication of geospatial data. Geospatial Data management within NTNC Geoportal allow for integrated creation of data, metadata, and map visualizations. Each dataset in the system can be shared publicly or restricted to allow access to only specific users.           | [More Info](http://geoportal.ntnc.org.np/about/) |
 | [National Geoportal](http://geoportal.ntnc.org.np/) |  License not found     | A web portal used to find and access geographic information and associated geographic services((display, editing, analysis, etc.) via the Internet. Available datasets includes Administrative Boundaries, Geodetic Control Points, Hazard, Land Use Data, Orthophoto, Cadastral Data, Topographic Data, Social Infrastructure and others.  | [More Info](https://nationalgeoportal.gov.np/#/about) |
 | [NEPAL HEALTH FACILITY REGISTRY](https://nhfr.mohp.gov.np/googlemap) | License not found     | Nepal Health Facility Registry is an interactive web-based analytical visualization tool that has a Master Inventory List of Health Facilities in Nepal with unique identification code, location, type, level, and service information that can be used by the Government and public.                    | [More Info ](https://nhfr.mohp.gov.np/) |
+
 <!-- Repeat the above table rows for each Data source -->
 
 ## Data Source Title 1
@@ -68,33 +56,16 @@ To add a new Data source, follow these steps:
 
 [Detailed information about Data Source Title 1 goes here. Provide additional context, details, or instructions that can help users understand the data source better. This section can include things like data attributes, data quality, or any other relevant information.]
 
-## Data Source Title 2
+## How to Contribute
 
-- **License:** [License 2]
-- **Summary:** [Summary 2]
-- **Download Link:** [Download Link 2]
-- **Source:** [Source 2]
-- **Update Frequency:** [Frequency 2]
-- **Type:** [Type 2]
-- **Notes:** [Notes 2]
+To add a new Data source, follow these steps:
 
-### More Info 2
-
-[Detailed information about Data Source Title 2 goes here. Provide additional context, details, or instructions that can help users understand the data source better. This section can include things like data attributes, data quality, or any other relevant information.]
-
-## Data Source Title 3
-
-- **License:** [License 3]
-- **Summary:** [Summary 3]
-- **Download Link:** [Download Link 3]
-- **Source:** [Source 3]
-- **Update Frequency:** [Frequency 3]
-- **Type:** [Type 3]
-- **Notes:** [Notes 3]
-
-### More Info 3
-
-[Detailed information about Data Source Title 3 goes here. Provide additional context, details, or instructions that can help users understand the data source better. This section can include things like data attributes, data quality, or any other relevant information.]
+1. Fork the repository.
+2. Clone the forked repository to your local machine.
+3. Fill in the details for your Data source.
+4. Save the file and commit your changes.
+5. Push the changes to your forked repository.
+6. Create a pull request to submit your changes for review.
 
 ## Code of Conduct
 
